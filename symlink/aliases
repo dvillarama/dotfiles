@@ -51,3 +51,6 @@ alias migrate="bundle exec rake db:migrate db:test:prepare"
 
 unalias sl
 # vim ft=sh
+
+alias cls=clear
+alias h=history

@@ -11,7 +11,7 @@
   unstage = reset HEAD
   dc = diff --cached
   current-branch = !git symbolic-ref -q HEAD | sed -e 's|^refs/heads/||'
-  author = !"git config user.name 'Alexander Tamoykin' && git config user.email 'at@zestcash.com'"
+  author = !"git config user.name 'David Villarama' && git config user.email 'div@zestfinance.com'"
 [push]
   default = tracking
 [color]
@@ -46,7 +46,7 @@
 [push]
   default = current
 [user]
-	name = Alexander Tamoykin
-	email = at@zestcash.com
+	name = David Villarama
+	email = div@zestfinance.com
 
 # vim: ft=gitconfig
