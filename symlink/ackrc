@@ -16,6 +16,7 @@
 
 --type-add=ruby=.slim
 --type-add=ruby=.haml
+--type-add=ruby=.yaml
 --type-add=ruby=.ru
 --type-add=css=.sass
 --type-add=css=.scss

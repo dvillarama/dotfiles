@@ -8,6 +8,7 @@ alias show-colors='for code in {000..255}; do print -P -- "$code: %F{$code}Test%
 alias ll="ls -ltrha"
 alias flushdns='dscacheutil -flushcache'
 alias tmuxcopy='tmux show-buffer | pbcopy'
+alias Ack=ack
 
 # Repeat a command multiple times
 function repeat() {
