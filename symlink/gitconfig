@@ -11,7 +11,7 @@
   unstage = reset HEAD
   dc = diff --cached
   current-branch = !git symbolic-ref -q HEAD | sed -e 's|^refs/heads/||'
-  author = !"git config user.name 'David Villarama' && git config user.email 'div@zestfinance.com'"
+  author = !"git config user.name 'David Villarama' && git config user.email 'david.x.villarama.-nd@disney.com'"
 [push]
   default = tracking
 [color]
@@ -32,7 +32,7 @@
   untracked = cyan reverse
   branch = magenta
 [core]
-  excludesfile = ~/.git_ignore
+	excludesfile = /Users/div/.gitignore_global
 [init]
   templatedir = ~/.git_template
 [format]
@@ -47,6 +47,8 @@
   default = current
 [user]
 	name = David Villarama
-	email = div@zestfinance.com
+	email = david.x.villarama.-nd@disney.com
 
 # vim: ft=gitconfig
+[rebase]
+	autosquash = true

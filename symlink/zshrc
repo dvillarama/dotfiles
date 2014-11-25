@@ -35,11 +35,6 @@ if [ -e "$HOME/.aliases" ]; then
   source "$HOME/.aliases"
 fi
 
-# zestsecrets
-if [ -e "$HOME/.zestsecrets" ]; then
-  source "$HOME/.zestsecrets"
-fi
-
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi # rbenv init
 # export CC=/usr/bin/gcc-4.2 # CLI tools
 export CC=/usr/local/bin/gcc-4.2 # apple gcc from homebrew
@@ -97,8 +92,8 @@ setopt EXTENDED_GLOB
 export PROJ_HOME=$HOME/work
 function f () {if [[ -e $PROJ_HOME/div/$1 ]] then cd $PROJ_HOME/div/$1; else cd $PROJ_HOME/div; fi}
 compctl -/ -W $PROJ_HOME/div f
-function z () {if [[ -e $PROJ_HOME/zest/$1 ]] then cd $PROJ_HOME/zest/$1; else cd $PROJ_HOME/zest; fi }
-compctl -/ -W $PROJ_HOME/zest z
+function z () {if [[ -e $PROJ_HOME/projects/$1 ]] then cd $PROJ_HOME/projects/$1; else cd $PROJ_HOME/projects; fi }
+compctl -/ -W $PROJ_HOME/projects z
 
 # teamocil completion
 compctl -g '~/.teamocil/*(:t:r)' teamocil
