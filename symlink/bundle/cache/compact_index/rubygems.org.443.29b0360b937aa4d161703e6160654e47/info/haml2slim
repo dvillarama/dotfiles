@@ -1,0 +1,13 @@
+---
+0.1.0 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:17275e164f4ed0f0f6ee02ec513cdf76ae00e860ed8cf0962709dd2e829a960e
+0.1.1 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:cc860b6de7023b53394ec5c936b2c11544b565a63e8010840d174643fcb15d52
+0.2.0 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:470963575b5e3938ca846f72a0e3e413d6211a0547c3a4ceb7ec7ab2470e958e
+0.3.0 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:b420450bc9cbcd84c017b7c5afc0d4792bfb907fca9ef3d91d7b5a7dd576de67
+0.4.0 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:3f27ecc42175843388b2880315c25fcf948bf6c3aa171cec60691a6fff06c272
+0.4.1 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:2f91d35376d858d2a09389b7da77df812c2510b8f9c93d258f61a7bac83a9dd9
+0.4.2 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:1988d94c20c3347b36f6c96da724509893ec8d3ce4887a650c51aa6b6efb1dcb
+0.4.3 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:131b05c3a035c1dc7b3386665cb1103c2b31f6388428099783e5d740e4ee51d7
+0.4.4 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:36073cf28c963478abdd3e7f344f6c178dda0978033c6e2414c15d75dc752e08
+0.4.5 haml:~> 3.0.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:7c869a76a702522b90f4a547ba799391dd5fb473d2c1d70f3d70d64ac1510adc
+0.4.6 haml:>= 3.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:561eed86b383b91313c81675f4f97c22af02f9a9759b3f1efb3c032f4998d1a8
+0.4.7 haml:>= 3.0,nokogiri:>= 0,ruby_parser:>= 0|checksum:3ce87785e8721066c38c8835cad6319b674ae8eaced30400ea96ef52b20d311f

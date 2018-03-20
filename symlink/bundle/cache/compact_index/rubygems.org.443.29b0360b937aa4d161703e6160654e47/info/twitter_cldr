@@ -1,0 +1,57 @@
+---
+1.0.0 |checksum:45a3e973772a8fa225d6e2d4c44e3378913d79106d5bd7a2ee5367512755dbc5
+1.0.1 |checksum:3bc887e088e9af5277d1d6561ec181318e748d412523826bbcaeaf4eeaa81bd8
+1.1.0 json:~> 1.6.6|checksum:c00fd68c9ec807da8b3b2baf2f4e3d78ad88fdb880dabe44f135a0fdb19f327e
+1.2.0 json:~> 1.6.6|checksum:ded19363f67887abe1c63e670353d4ef18edff038bc6ee869139c2f9fa4d9ef8
+1.3.0 json:~> 1.6.6|checksum:973b9a1cf3f830244d4ea1a0c8d4ae96e323fe745abb07e58e01067c809cd543
+1.3.6 json:~> 1.6.6,mustache:~> 0.99.4|checksum:996d1e057b49b03f14843d53a1122817b7da69636dcb642871eab9be35e3f804
+1.4.0 json:~> 1.6.6,mustache:~> 0.99.4|checksum:a159bbab700f810db4156ec86ccf0282ef21ea45b7d95e68496a58c722424a0b
+1.4.1 json:~> 1.6.6,mustache:~> 0.99.4|checksum:efed2301c02c89c1d918adc9a8331e1a0731bd60d4791298b99537f7bbb874ef
+1.5.0 json:>= 1.1.9|checksum:f7797e3d30f4a3b92ece9cc540b384cca1dbae5819e99480491046de2b97034b
+1.6.0 json:>= 1.1.9|checksum:e8a16fcb3456ea0436ff9ce777bfcfbb126102f7d855f7a069322706427f3d83
+1.6.1 json:>= 1.1.9|checksum:749df25ae696f3210b691910bd20881f6df01d2ba3859f9b60bce83b7cd0bb22
+1.6.2 json:>= 1.1.9|checksum:c314b96ffe0422fda641b3cd298274e83caca4672fe9226df596b0361e516715
+1.7.0 json:>= 1.1.9|checksum:995c7e64947365bce52a0b49b1c203821d8c1c786698b95ca3df652f3d2f0a42
+1.8.0 json:>= 1.1.9|checksum:04f6ef45ab2dc1e2891c7edacab85ef809b442782ef0af212c1023c340305345
+1.8.1 json:>= 1.1.9|checksum:51db0963fc1bf7d57976d674835dda27b8b208cd636a1fa759d0e7b4a80ab3b8
+1.9.0 json:>= 1.1.9|checksum:57e058589938d8aac9e5ae6d397abc0551253766c5c376942973aaeb67712904
+1.9.1 json:>= 1.1.9|checksum:81a096df60e7979b4cb73fd39cb4860539f6732e8456fa7d2d77da4a1bba8b41
+2.0.0 json:>= 1.1.9|checksum:724b629df69535542339a24379ec522e900add3ebaa6293f5db74a76ba09dbe5
+2.0.1 json:>= 1.1.9|checksum:54a0e63649019b9ba3e5f850e6831eb7adfd414cb8722a9247f94a7098306742
+2.0.2 json:>= 1.1.9|checksum:d219ff3c28ff5892875860bd423a1c7486a5318347f4d2352a05e54d9601e8f3
+2.1.0 json:>= 1.1.9|checksum:9aee0f4093fdbe1d1b518f99dd6df29b457e888842442cfd521ebac5b4951173
+2.1.1 json:>= 1.1.9|checksum:b13e5bb75535a92876ecde040590273f11deff0135290dd0a81430bf5902c06c
+2.2.0 json:>= 0|checksum:9f601da387103e0539e2c9e253db865b79d577b90a51e1c488777c2bdc9690e1
+2.4.0 json:>= 0,tzinfo:>= 0|checksum:67cc4c40b95738ec74e1bea60c8af55cffdac0f985c956541ee3de3e538a5e08
+2.4.1 json:>= 0,tzinfo:>= 0|checksum:bc74232d75d88f028889769d0565ac67b94a429ed53f1d00d01048634d981a67
+2.4.2 json:>= 0,tzinfo:>= 0|checksum:8ebe35a0f7e1f82e7427381174ffca67480785c279a884728d302f2a53e18175
+3.0.0.beta1 hamster:>= 0,json:>= 0,tzinfo:>= 0|checksum:99bc1665c0b2a34211555fec190acfd7a8bd7a86bdca0e77515e4d37fa05ccb0,rubygems:> 1.3.1
+3.0.0 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:f3d862a6806e1270981f10856bd1b47f22b7cee2a7dc552a710510af14e03295
+2.4.3 json:>= 0,tzinfo:>= 0|checksum:412e4d254b82b3f719b77f51d078e711145364d499bd8f5a445af6914288e150
+3.0.1 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:cb8905e59eafa460bf98674eb13e315c7be35c1af3a896bf9290a8e8f77d3981
+3.0.2 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:9bf50941fd6558e285a65a372f904b811788f438922a6b0e950ac210f95635ed
+3.0.3 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:c8cac0d8e14900d6b47cfe81b2614e56b13eb635b99a19dcd741c37e94ad1883
+3.0.4 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:c125ca63d6358ac363a9d8f097dbc6ab2bf09ee8f6b4666a1462512596ebf0bc
+3.0.5 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:32216c97246666ed8539870a777bb3ed635a252e23ab93b54d6952fe26b51cb1
+3.0.6 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:3849013ecb34bb91a1abbe9b11cdee2ca766f2dee279101dd33906701366f20d
+3.0.7 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:5711b25700c1c4a0e71f1682fc5ff2a28e19ff4d7e39a2042061a87e3f0d3382
+3.0.8 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:f796f15acbd3a6542dc0ea44a40a57884df14e4ac39f14326647c5aacbaa55ee
+3.0.9 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:5d00a4fa27203ed1fee8e47dfa977f26b99a752f4ffc379def9f48d7ae986fd7
+3.0.10 camertron-eprun:>= 0,json:>= 0,tzinfo:>= 0|checksum:4662f54dfb20f0a4b8b26cdf73c8427129cd43352af016511be737f93dd0c809
+3.1.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:>= 0,tzinfo:>= 0|checksum:1f5e24b6b487499c48fcd364cc6cf939f896f8863783fe2e8e81c512803813d5
+3.1.1 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:>= 0,tzinfo:>= 0|checksum:0973b25078cb872be59833ac2cbfb36d87f0afaea8d711fa835a0b63bb0e2afa
+3.1.2 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:>= 0,tzinfo:>= 0|checksum:736e5cf9d4ac891581a4843096158be7673c2758df2b526b592c737564d016b6
+3.2.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:>= 0,tzinfo:>= 0|checksum:397818877ac39ea9a1ecaae5a3ab432549b971c0b03ddf6a0cadaf5b6dcf6b3c
+3.2.1 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:>= 0,tzinfo:>= 0|checksum:1d09a2bfb00bed663e8363da0e2c38c77a21aee38b62627119832f8c23a09703
+3.3.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:>= 0,tzinfo:>= 0|checksum:965ff85aa732fb86d3c76a28539430ade1c9581f864ac8ee8440423717f3ad49
+3.4.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,json:~> 1.0,tzinfo:>= 0|checksum:5a8284fce14ddc690572d4e83a18d32454f1c6aceea6826e8603e7144f6fb124
+3.5.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0.0,tzinfo:>= 0|checksum:c0cf921496e10ff4ec794954bbd157dec7a722e731c451662ec9cfe66b461d9f
+3.6.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:22887c6449cdc550981337d098c2adff247895d25c37c81a695f760b9285d1ad
+4.0.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:9fd8f245cbb19c2256577f95db54346fbb3e192bfe6848bdfa07e3a6b8957ab0
+4.1.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:cef37fc59b6c6ecc3d77b4718cbc0c5aa830d1c81e9671ea9189291ae3c7bbd7
+4.2.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:75b29b66262edf4469cbcb429c669346992b7e7eed2e47da32f20cd574d91e56
+4.3.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:cc97ee8e6333aa2d541c59398a2eddafc352c9bec53ba70caebdc0b8ddf9bf64
+4.3.1 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:97426cee4e86b8658d88112b67ce1227e5c3b948db95fad29ecf35c3f48b3a0a
+4.4.0 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:f8fc0d1e35d981e6abec19d2c9669593740856708928afbd9309f46b7b01037a
+4.4.1 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:772fd3c816920dbcd254cc138fd1d5dc7a77afc4f60f97ff9dc4652312c1eb3f
+4.4.2 camertron-eprun:>= 0,cldr-plurals-runtime-rb:~> 1.0,tzinfo:>= 0|checksum:fc2d6e02c0822492dd68d84fd399c242815a4238ee8b6aeba4b71562640b9618

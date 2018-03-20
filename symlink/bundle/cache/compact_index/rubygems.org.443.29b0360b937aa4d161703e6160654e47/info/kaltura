@@ -1,0 +1,4 @@
+---
+0.0.1 |checksum:f1ea16cb427315729a2549712fde6195e6eba9160923167bb08b83d1da7c008b
+0.1.0 hashie:>= 1.0.0,httparty:>= 0.7.8|checksum:cd70ba2ff81b70d7ded85a57d526c773d4ba54ac15f68d8d12ae7a25dba5edee
+0.1.1 hashie:>= 1.0.0,httparty:>= 0.7.8|checksum:5ebe53f412c5586fc5bcae61371a3ebbb5f61b0a73ec1e435cdaecfc1b91e04e

@@ -1,0 +1,4 @@
+---
+1.1 actionpack:~> 3.1.0|checksum:b6eb5600095d2056e5aba8962809bea662958f622498d352c1aae41e17f567fd
+1.2 actionpack:~> 3.1.0|checksum:1201c30b8891b40973346dcc50f42bcd25734cb4e5347fe5341bc64f0fc55d35
+1.2.1 actionpack:~> 3.1.0|checksum:412fc2c0a9e5f5c287d5910474ab5621a9dd56b1a8a7ab5eadfee5030f01748b

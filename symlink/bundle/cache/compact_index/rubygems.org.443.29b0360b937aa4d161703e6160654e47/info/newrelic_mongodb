@@ -1,0 +1,6 @@
+---
+0.0.7 mongo:= 2.1.0.beta,newrelic_rpm:~> 3.11|checksum:73c8eb13cb568feadc543b1e3c8c7ab732e6fa8ccf4665a5bec7c28f06250920
+0.0.8 mongo:< 3&>= 2.1.0.beta,newrelic_rpm:~> 3.11|checksum:1ab40e68960b3e812a33170714aa4ad0a927334258fedb1d3984eb5555e73e67
+0.1.0 mongo:< 3&>= 2.1.0.beta,newrelic_rpm:~> 3.11|checksum:3e7b2d73ffcc6b55f6a1f20ff1bf7b5df4d694bde4b7644ba60be81d14e815af
+0.1.1 mongo:< 3&>= 2.1.0.beta,newrelic_rpm:~> 3.11|checksum:92cb7804187eeff535536bce6abc73bc6d6204a677f4ff224a469b32d0e36216
+0.1.2 mongo:< 3&>= 2.1.0.beta,newrelic_rpm:~> 3.11|checksum:564e3ec5f25726272849484c33b5796381cd5c9e95b219169850516e289f24de

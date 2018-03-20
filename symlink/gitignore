@@ -1,5 +1,15 @@
 .*.swp
-tags
 .swo
 vendor/bundle
 .DS_Store
+.bundle
+.vscode/
+.vscode
+vendor/ruby/**/
+vendor/ruby/**/
+vendor/ruby/**
+vendor/ruby
+vendor/ruby/
+./vendor/ruby/**/
+./vendor/ruby/**
+./vendor/ruby/

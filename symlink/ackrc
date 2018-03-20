@@ -14,6 +14,7 @@
 --type-set=plist=.plist
 --type-set=tmstuff=.tmproj,.tm_build_errors
 
+--type-add=c=.h
 --type-add=ruby=.slim
 --type-add=ruby=.haml
 --type-add=ruby=.yaml
@@ -22,6 +23,7 @@
 --type-add=css=.scss
 --type-add=js=.coffee
 --type-add=objc=.pch
+--type-add=php=.php
 
 --nonib
 --notmstuff

@@ -1,0 +1,15 @@
+---
+0.1 capybara:>= 0.3.9,capybara-envjs:>= 0.1.5,launchy:>= 0.3.5,sinatra:>= 1.0|checksum:c707a9e4794af2ab9971097481a25233ff435342cd9b787f01b485a7b27b66d2
+0.2.0 capybara:>= 0.3.9,capybara-envjs:>= 0.1.5,json:>= 1.0.0,launchy:>= 0.3.5,sinatra:>= 1.0|checksum:4892f929fa90df1de1af571a90ecc5c0f637e628cc911eb61c8bf694b2b809b9
+0.2.1 capybara:>= 0.3.9,capybara-envjs:>= 0.1.5,json:>= 1.0.0,launchy:>= 0.3.5,sinatra:>= 1.0|checksum:161ee58cf03e92083ae0b8c74efab4a7d5fe7ef8eb8960b6903d51e8f3cd45c0
+0.2.2 capybara:>= 0.3.9,capybara-envjs:>= 0.1.5,json:>= 1.0.0,launchy:>= 0.3.5,sinatra:>= 1.0|checksum:3f646686d233847308a949158650f37ce2eba428e4cb25e5dcbb49d38777c3d5
+0.3.0 capybara:>= 0.3.9,json_pure:>= 1.0.0,launchy:>= 0.3.5,sinatra:>= 1.0|checksum:db2085507c683f6756cde55c8e8a58620320a279a8949a7ab09be368618cc73f
+0.4.0 capybara:~> 0.4.0,json_pure:>= 1.0.0,launchy:>= 0.3.5,sinatra:>= 1.1|checksum:cc576992e0ffc1d858f069111f6ba1192ef801122b1098dcf0ed900c67d08fca
+0.4.1 capybara:~> 1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:a8b925c20c42ae102425617b03bc78e6cdb613df0c097b98c913aaef8d61bfc3
+1.0.0.rc capybara:~> 1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:9f652de1495cbf0404bdafd51fc443ae682b9f080335a1c432590f4d84c0e225,rubygems:> 1.3.1
+1.0.0 capybara:~> 1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:a62270ea98109d9c29f83f062694b8f0790cbad78dd555488aaf1af8f340d337
+1.0.1 capybara:~> 1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:1e950d1d545a20eedf0711e111b6cd34a0d7f0d6e8058a2a0278f0bb5869c2b3
+1.1.0 capybara:~> 2.1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:c06730c1cb5c8e42b4157b9359792fd3673cfab0a793cc63c64c8dc703f801bb
+1.1.2 capybara:~> 2.1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:889286ed525ae2698a8c18c8f0a26581fae8a997ebbcfe89d09b6e28effd8f26
+1.1.3 capybara:>= 2.1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:2da3bda144ac6e9a6a1f8d9f54a7f8a96c306e8193035bda0d17269a0c3df77d
+1.2.0 capybara:>= 2.1.0,coffee-script:>= 0,json_pure:>= 0,launchy:>= 0,sinatra:~> 1.1|checksum:3b6f784bbdf059324521b07ec3d1cad7f8be1e7f8a1c03c2e25d797cc2e7d181

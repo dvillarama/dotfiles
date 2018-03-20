@@ -1,0 +1,3 @@
+---
+0.1.1 json:>= 0,simplecov:>= 0|checksum:0188f2e35dbf5d4700c66465f97b12f9698cc72ae8b58fbf85b6d0c8058307d1
+0.2 json:>= 0,simplecov:>= 0|checksum:f7d23f417847899d4b67ad901c3bc0867a751682c5eaef2c09adc87911c83075

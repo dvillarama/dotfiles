@@ -1,0 +1,6 @@
+---
+1.0 hoe:~> 2.14,travis-lint:~> 1.2|checksum:f6949f3dc77192267eb44eff2c9b2d6308750ace25c169cda52769e8033e3d9f
+1.1 hoe:~> 2.14,travis-lint:~> 1.2|checksum:cfb33e9ef796c63b6538833505db4262d5e789488509228b41e95df2552c9fdf
+1.2 hoe:~> 3.0,travis-lint:~> 1.2|checksum:c2db6f1b591a904a6905aa4bf5e0edac685f8ad401d347929c0ab43b93d3e5e1
+1.3 hoe:~> 3.0|checksum:36b22bf74d2962cc9ef7d01be86f3aa0e745dd562d2208a31bac86fcd7499f84
+1.3.1 hoe:~> 3.0|checksum:dcd85a1b5b0fdcb6b6b7ed943cc395f5fe02b1e315dc5664ee71f9580bf9fa56

@@ -7,7 +7,11 @@ alias ll="ls -ltrha"
 alias flushdns='dscacheutil -flushcache'
 alias tmuxcopy='tmux show-buffer | pbcopy'
 alias Ack=ack
-alias Ag=ag
+alias Ag='ag -p ~/.ignore'
+alias gb='git branch --sort=committerdate'
+
+# list all run commands in a package.json
+alias nls='npm-script-list'
 
 # Repeat a command multiple times
 function repeat() {
@@ -41,6 +45,7 @@ alias gd='git diff'
 alias gdc='git diff --cached'
 alias gap='git add -p'
 alias gc='git commit'
+alias gdb='git branch --merged | grep -v "\*" | grep -v master | grep -v dev | xargs -n 1 git branch -d'
 
 # setup
 setup() {
