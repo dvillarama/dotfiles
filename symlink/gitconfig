@@ -15,7 +15,8 @@
 [push]
   default = tracking
 [color]
-	ui = always
+  ui = always
+  ; branch = false
 [color "branch"]
   current = yellow black
   local = yellow
@@ -47,8 +48,8 @@
 [push]
   default = current
 [user]
-	name = David Villarama
-	email = david.villarama@synctree.com
+	name = david.villarama
+	email = david.villarama@science37.com
 
 # vim: ft=gitconfig
 [rebase]
@@ -60,6 +61,9 @@
 	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [filter "lfs"]
-	clean = git-lfs clean %f
-	smudge = git-lfs smudge %f
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
 	required = true
+	process = git-lfs filter-process
+[commit]
+  verbose = true

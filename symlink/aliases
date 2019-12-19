@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# serverless
+alias ss="serverless"
+
 # Unix
 alias profileme="history | awk '{print \$2}' | awk 'BEGIN{FS=\"|\"}{print \$1}' | sort | uniq -c | sort -nr | head -n 20"
 alias show-colors='for code in {000..255}; do print -P -- "$code: %F{$code}Test%f"; done'
@@ -9,6 +12,13 @@ alias tmuxcopy='tmux show-buffer | pbcopy'
 alias Ack=ack
 alias Ag='ag -p ~/.ignore'
 alias gb='git branch --sort=committerdate'
+
+# Docker
+alias dr='docker run'
+alias di='docker image'
+alias dcs='docker container stop'
+alias dc='docker container'
+
 
 # list all run commands in a package.json
 alias nls='npm-script-list'
@@ -46,17 +56,18 @@ alias gdc='git diff --cached'
 alias gap='git add -p'
 alias gc='git commit'
 alias gdb='git branch --merged | grep -v "\*" | grep -v master | grep -v dev | xargs -n 1 git branch -d'
+alias gls='git branch --sort=committerdate'
+
+# codeceptjs
+alias cs="codeceptjs"
 
 # setup
-setup() {
-  gemi git-smart simple-git-pair rbenv-rehash teamocil
-  brew install wemux
+setup() { gemi git-smart simple-git-pair rbenv-rehash teamocil brew install wemux
 }
 
 # Rails
 alias migrate="bundle exec rake db:migrate db:test:prepare"
 
-unalias sl
 # vim ft=sh
 
 alias rt='ruby -Iapp -Ilib -Itest'

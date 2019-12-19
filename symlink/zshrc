@@ -59,7 +59,8 @@ fi
 stty -ixon
 
 # ignore duplicate history entries
-setopt HIST_IGNORE_ALL_DUPS
+# setopt HIST_IGNORE_ALL_DUPS
+# setopt hist_ignore_dups
 
 # keep TONS of history
 export HISTSIZE=4096
