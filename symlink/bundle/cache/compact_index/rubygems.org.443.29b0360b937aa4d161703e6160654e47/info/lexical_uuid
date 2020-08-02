@@ -1,8 +1,0 @@
----
-0.0.1 RubyInline:= 3.8.4|checksum:dec618235a42fb34a19e571bcc1e0b41ac820a3300bb05c17b954bcbaffcbcfa
-0.1.1 RubyInline:= 3.8.4|checksum:4647a64c829b552a43c2555f6905cb654640e2d891f6f70f3557391f1e8f2d98
-0.1.2 RubyInline:= 3.8.4|checksum:1a955c3064daca2b2dcab5ce3b15b8c4c3b65b028d7b70a8683860f71bd0c6ab
-0.1.6 RubyInline:> 3.8.4|checksum:82e616b2c0e1767bca130f770df010cd8e203d4a52267de8c21d645362bba49e
-0.1.7 RubyInline:> 3.8.4|checksum:e2be7d0965d0977f6b145fcbdee9f3f08e08e24457fe65a18a518a782eaa9dfb
-0.2.0 fnv:>= 0|checksum:274cf7f3013deadced63bef34ed55bfa4411e6accef24b5f6f5de6a40d585060
-0.2.1 fnv:>= 0|checksum:2ed362be51745de5b85dc6030ef44b31c58747b6bf09e12cb7fd8838b41d24ee

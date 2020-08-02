@@ -1,6 +1,0 @@
----
-0.1.0 api-ai-ruby:~> 1.1.0,awesome_print:~> 1.6.1,colorize:~> 0.7.7,gli:~> 2.13.4|checksum:0389807642e87b7ab09b5603cc54395d9c169624010bc5cd8d1555041c77f41f
-0.2.0 api-ai-ruby:>= 0,awesome_print:~> 1.7.0,colorize:~> 0.8.1,gli:~> 2.14.0|checksum:c7c4b085997d4107ac599085fc740db041336036e5ba4e0e44c78172b3e30754
-0.2.1 awesome_print:~> 1.7.0,colorize:~> 0.8.1,gli:~> 2.14.0,voxable-api-ai-ruby:~> 1.1.0|checksum:6b419e0ef20267af8aa2e611dcf9fca5edd84f400c80293bf743b45050b5f89b
-0.2.2 awesome_print:~> 1.7.0,colorize:~> 0.8.1,gli:~> 2.14.0,voxable-api-ai-ruby:~> 1.1.0|checksum:357a0676596df46032db5c35c8a87603b2da8f244c0605144d1200e49ed39e6d
-0.2.3 awesome_print:~> 1.7.0,colorize:~> 0.8.1,gli:~> 2.14.0,voxable-api-ai-ruby:~> 1.1.0|checksum:9fd287de72ff7dff355586f4933b8c9d883a4cb16c833b1ff0c69a152b799577

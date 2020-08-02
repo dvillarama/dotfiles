@@ -1,9 +1,0 @@
----
-1.1.1 bcrypt-ruby:~> 2.1.2,bson_ext:>= 1.0.4,devise:>= 1.1.1,jnunemaker-validatable:>= 1.8.4,mongo_mapper:>= 0.8.2,rails3-generators:>= 0.12.1,warden:~> 0.10.7|checksum:975de1de3f5c42bc27b5bbcbd255025e72e05c47cbc3e96c817e4165b8b1388a
-1.1.6 bcrypt-ruby:~> 2.1.2,bson_ext:~> 1.0.4,devise:>= 1.1.1,jnunemaker-validatable:~> 1.8.1,mongo_mapper:~> 0.8.4,rails3-generators:>= 0.13.0,sugar-high:~> 0.2.10,warden:>= 0.10.7|checksum:a68b6f80031c05ad97f4ecf600e05637d62fe310b53adc88f3190b7069480287
-1.1.7 bcrypt-ruby:>= 2.1.2,bson:>= 1.0.9,devise:>= 1.1.1,jnunemaker-validatable:>= 1.8.1,mongo_mapper:>= 0.8.4,rails3-generators:>= 0.13.0,sugar-high:~> 0.3.0,warden:>= 0.10.7|checksum:b9a5affddd5d0d5fc74a81eb40ffc4b1aeac901ca313d6d8dce83511f52994a3
-1.1.8 bcrypt-ruby:>= 2.1.2,bson:>= 1.0.9,devise:>= 1.1.1,jnunemaker-validatable:>= 1.8.1,mongo_mapper:>= 0.8.4,rails3-generators:>= 0.13.0,sugar-high:~> 0.3.0,warden:>= 0.10.7|checksum:75a7e47e472f9fdc5ca5d350c95eb24374cc701170e649495e4cdc022a7499aa
-1.1.10 bcrypt-ruby:>= 2.1.2,bson:>= 1.0.9,devise:>= 1.1.1,jnunemaker-validatable:>= 1.8.1,mongo_mapper:>= 0.8.4,rails3-generators:>= 0.13.0,sugar-high:~> 0.3.0,warden:>= 0.10.7|checksum:ba2fc3a46f831c6e6d61c6c2a79ab12f5517d4c8038242976af6c053ce120432
-1.2 devise:>= 1.2,mongo_mapper:>= 0.9.0,sugar-high:~> 0.4.3|checksum:4226c500315dd662a18e4ad9daf2879f674d84666f6d92193b9de2ed4aada721
-1.3 devise:>= 1.2,mongo_mapper:>= 0.9.0|checksum:c76715ba045c57424d59a5f602b57355857d7b2c90fd6021bfe2e4a773684348
-2.0 devise:>= 1.2,mongo_mapper:>= 0.9.0|checksum:0a158d5efcb9668f3dd0baf9e9e0e534b02afebd49f8357733bb6194015555d9

@@ -1,9 +1,0 @@
----
-1.1.0 hoe:>= 1.12.1,rake:>= 0,rake-compiler:>= 0|checksum:0c5c02b90cddf02c0072446fe2b848074d3d7fa145007957050ee2a72002cad9
-1.1.2 hoe:>= 2.3.2,rake-compiler:>= 0.6.0|checksum:cf49d625025dda06498117dd8b3520fbc614cd3ee72163e4ebea4fd846d86338
-1.1.1 hoe:>= 2.3.1,rake:>= 0,rake-compiler:>= 0|checksum:d5c7937b1ee1728981079997350ed6d8d5379c32af2e3d4750bfdbf4402a593b
-1.2.0 |checksum:3be63183483cea05c55c614e2d80518dfb835ebafa75390c4e5982ed8b113895
-2.0.0.pre0 stackdeck:~> 0.1|checksum:f35c7e2cfd559b34a34094f42d1cf9149126b87d204cefe85f5b97e7effba7b1,rubygems:> 1.3.1
-2.0.0.pre1 stackdeck:~> 0.1|checksum:51b9e653299e1b8be7c08d0076fd2198dc412632e863105bb9d135b15162cf96,rubygems:> 1.3.1
-2.0.0.pre2 stackdeck:~> 0.2|checksum:470cebb018f6ae993480e8a607b7bda06e2268ffce8313f47e0430dfc9d7b292,rubygems:> 1.3.1
-2.0.0.pre3 stackdeck:~> 0.2|checksum:0d3813e2c7c9433fc7446f9b20e178c6e972f0077f4c07ac64dfa0b930c6c7c8,rubygems:> 1.3.1

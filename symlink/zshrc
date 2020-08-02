@@ -5,7 +5,7 @@ ZSH=$HOME/.oh-my-zsh
 
 DISABLE_AUTO_UPDATE="true"
 ZSH_THEME="simple"
-plugins=(gem brew bundler)
+plugins=(brew)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -38,10 +38,9 @@ fi
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi # rbenv init
 # export CC=/usr/bin/gcc-4.2 # CLI tools
 export CC=/usr/local/bin/gcc
-export CFLAGS="-I/opt/X11/include" # ruby 1.8.7 needs X11 to build
 export PATH=/usr/local/bin:/usr/local/sbin:$PATH # look for brew packages first
-export PATH=$PATH:~/work/div/scripts
-export PATH=$PATH:~/.composer/vendor/bin
+# export PATH=$PATH:~/work/div/scripts
+# export PATH=$PATH:~/.composer/vendor/bin
 
 
 # Solarized GNU Colors
@@ -93,27 +92,14 @@ export DISABLE_AUTO_TITLE="true"
 setopt EXTENDED_GLOB
 
 # Jump between projects
-export PROJ_HOME=$HOME/work
-function f () {if [[ -e $PROJ_HOME/div/$1 ]] then cd $PROJ_HOME/div/$1; else cd $PROJ_HOME/div; fi}
-compctl -/ -W $PROJ_HOME/div f
+export PROJ_MINE=$HOME/work/mine
 
-function z () {if [[ -e $PROJ_HOME/projects/$1 ]] then cd $PROJ_HOME/projects/$1; else cd $PROJ_HOME/projects; fi }
-compctl -/ -W $PROJ_HOME/projects z
+function f () {if [[ -e $PROJ_MINE/$1 ]] then cd $PROJ_MINE/$1; else cd $PROJ_MINE; fi}
+compctl -/ -W $PROJ_MINE f
 
-function g () {if [[ -e $PROJ_HOME/gig/$1 ]] then cd $PROJ_HOME/gig/$1; else cd $PROJ_HOME/gig; fi }
-compctl -/ -W $PROJ_HOME/gig g
-
-function a () {if [[ -e $PROJ_HOME/aa/$1 ]] then cd $PROJ_HOME/aa/$1; else cd $PROJ_HOME/aa; fi }
-compctl -/ -W $PROJ_HOME/aa a
-
-function s () {if [[ -e $PROJ_HOME/stich/$1 ]] then cd $PROJ_HOME/stich/$1; else cd $PROJ_HOME/stich; fi }
-compctl -/ -W $PROJ_HOME/stich s
-
-function t () {if [[ -e $PROJ_HOME/teensafe/$1 ]] then cd $PROJ_HOME/teensafe/$1; else cd $PROJ_HOME/teensafe; fi }
-compctl -/ -W $PROJ_HOME/teensafe t
-
-# teamocil completion
-compctl -g '~/.teamocil/*(:t:r)' teamocil
+export PROJ_WORK=$HOME/work/scifind
+function g () {if [[ -e $PROJ_WORK/$1 ]] then cd $PROJ_WORK/$1; else cd $PROJ_WORK; fi }
+compctl -/ -W $PROJ_WORK g
 
 # makes color constants available
 autoload -U colors
@@ -130,18 +116,7 @@ setopt prompt_subst
 export NVM_DIR=~/.nvm
 . $(brew --prefix nvm)/nvm.sh
 
-# tmuxifier
-export PATH="$HOME/.tmuxifier/bin:$PATH"
-export TMUXIFIER_TMUX_OPTS="-2"
-export TMUXIFIER_LAYOUT_PATH=~/.tmuxifier/layouts
-eval "$(tmuxifier init -)"
-alias disney='tmuxifier load-session disney'
-alias aa='tmuxifier load-session aa'
-alias magsaya='tmuxifier load-session magsaya'
-alias rails6='mtt_cms_api_uri=https://cms-dev6.mh.disney.io/ bundle exec rackup -p 9292'
-alias railslocal='mtt_cms_api_uri=http://cms.local.diznee.net:3003 bundle exec rackup -p 9292'
-
 
 # OPAM configuration
-. /Users/div/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
-export PATH="/usr/local/opt/openssl/bin:$PATH"
+# . /Users/div/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
+# export PATH="/usr/local/opt/openssl/bin:$PATH"

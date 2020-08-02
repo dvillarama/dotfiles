@@ -1,9 +1,0 @@
----
-0.3.0 mail:>= 2.2.1,mime:>= 0.1|checksum:73337423544eecabdc36e70dcea033dd6a8121f35bc3b34827a6fc595de73ab7
-0.3.2 mail:>= 2.2.1,mime:>= 0.1|checksum:8339c12f281312053901fd48027934eeed5733018e744afecc3f888af86c6597
-0.3.3 mail:>= 2.2.1,mime:>= 0.1|checksum:2daf52fba61d7f887766e83646ffe2a986673144b81c3cecd48532ba04aee76a
-0.3.4 mail:>= 2.2.1,mime:>= 0.1|checksum:b6133440fc316a0feed4810689b00c516ebcdafb6f45e1171ee0f11a87b6db09
-0.4.0 gmail_xoauth:>= 0.3.0,mail:>= 2.2.1,mime:>= 0.1|checksum:51efac1c8832da5b08f5a425e33af890681b677d66820ca2f578e6039419b2fc
-0.4.2 gmail_xoauth:>= 0.3.0,mail:>= 2.2.1,mime:>= 0.1|checksum:10322e4f75f41e995936ed82c64fac46735827ff0021ae656ec877e9d4652034
-0.5.0 gmail_xoauth:>= 0.3.0,mail:>= 2.2.1|checksum:d9fad78d1ff4f4f94c3a869a8646aef966f51a4190704a02ff73bfea8eed9d82
-0.6.0 gmail_xoauth:>= 0.3.0,mail:>= 2.2.1|checksum:19e921ddb7ae61ff9abc9745671ff0b5b428deea04f6dee03e14dd18a9bb0178

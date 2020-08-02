@@ -1,6 +1,0 @@
----
-0.1.1 compass:= 0.13.alpha.10,sass:= 3.3.0.rc.1|checksum:e0c70b6f44364a3849082a8bb1b47a3a6088e0428888eb4f6916cfe4092e55f2,rubygems:>= 1.3.6
-0.2.0 compass:~> 1.0.0.alpha.13,sass:~> 3.3.0.rc.2|checksum:00d26585d09f8f163d82073b5329b54918380c4ad99e1b21cd0099e025c28c56,rubygems:>= 1.3.6
-0.3.1 compass:~> 1.0.0.alpha.13,sass:~> 3.3.0.rc.2|checksum:b2cafeff785fa1f4063af259c6388aafc107cbf183e8106169443b7ebdac71f8,rubygems:>= 1.3.6
-0.3.2 compass:~> 1.0.0.alpha.13,sass:~> 3.3.0.rc.2|checksum:2bc3b71644879240b5cd9b211d551b710fba73485816bf1933b4f42584e50371,rubygems:>= 1.3.6
-0.4.0 sass:~> 3.3|checksum:938477c22bc6f4bb3e18e939761f1a3272686b1fde6dc09be9edf80a43164328

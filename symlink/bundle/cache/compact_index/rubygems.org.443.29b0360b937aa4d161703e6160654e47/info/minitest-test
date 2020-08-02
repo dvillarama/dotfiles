@@ -1,6 +1,0 @@
----
-1.0.0.beta1 minitest:~> 4.0|checksum:351f9f5b0988a196ab5c517e94f6ad49584ad95a32ebc048e6c45da156dfb62c,rubygems:> 1.3.1
-1.0.0.beta2 minitest:~> 4.0|checksum:a63da6fcaabf02ce6b9d949126cfc6d1c578268acc1a6b1b7a035808efbba370,rubygems:> 1.3.1
-1.0.0.beta3 minitest:~> 4.0|checksum:d64a973b8abed1815e1c7fa282304f76d5f66bdf2f339836be4f96a079ab280d,rubygems:> 1.3.1
-1.0.0 minitest:~> 4.0|checksum:378c56c9161d732ec24420f7f3f1b3c4522edeadc84fe5aabd78910d3b3dd9d3
-1.1.0 minitest:~> 4.0|checksum:ee1ec7e99898d571a2c450c6760a52db931ce9cabfa95205d3006fb71ba1150d
